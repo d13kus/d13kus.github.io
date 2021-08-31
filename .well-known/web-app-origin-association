@@ -1,0 +1,10 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://d13kus.github.io/pwinter/manifest.json",
+      "details": {
+        "paths": ["/*"]
+      }
+    }
+  ]
+}
