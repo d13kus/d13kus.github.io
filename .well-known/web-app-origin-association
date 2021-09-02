@@ -5,6 +5,12 @@
       "details": {
         "paths": ["/*"]
       }
+    },
+    {
+      "manifest": "https://diek.us/pwinter/manifest.json",
+      "details": {
+        "paths": ["/*"]
+      }
     }
   ]
 }
